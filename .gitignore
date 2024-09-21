@@ -1,0 +1,6 @@
+/**/*.csv
+/**/*.data
+/**/*.names
+
+/**/iris
+/**/heartDisease
