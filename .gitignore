@@ -2,6 +2,7 @@
 /**/*.data
 /**/*.names
 /**/*.xls
+/**/*.pkl
 
 /**/iris
 /**/heartDisease
