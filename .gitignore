@@ -3,6 +3,7 @@
 /**/*.names
 /**/*.xls
 /**/*.pkl
+/**/*.zip
 
 /**/iris
 /**/heartDisease
